@@ -1,8 +1,7 @@
 {
     "name": "uzdevid/tutorial-webchat",
     "description": "WebSocket, PHP va Javascript orqali yaratilgan kichik onlayn chat",
-    "keywords": ["yii2", "websocket", "chat", ""],
-    "homepage": "https://www.yiiframework.com/",
+    "keywords": ["yii2", "websocket", "chat"],
     "type": "project",
     "license": "MIT",
     "require": {
@@ -13,7 +12,7 @@
     },
     "require-dev": {
         "yiisoft/yii2-debug": "~2.1.0",
-        "yiisoft/yii2-gii": "~2.2.0",
+        "yiisoft/yii2-gii": "~2.2.0"
     },
     "config": {
         "allow-plugins": {
