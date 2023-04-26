@@ -3,9 +3,9 @@ Web chat
 
 Web socket, PHP va javascript orqali yaratilgan kichik onlayn chat
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wntxLP0Me84" title="Web chat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/wntxLP0Me84
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uorbI0Wrtgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://youtu.be/uorbI0Wrtgs
 
 ### O'rnatish
 
